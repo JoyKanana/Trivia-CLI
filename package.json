@@ -1,0 +1,22 @@
+{
+    "displayName": "TRIVIA-CLI",
+    "version": "1.0.0",
+    "description": "A command-line trivia game built with Node.js.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "trivia",
+        "cli",
+        "quiz",
+        "javascript"
+    ],
+    "authors": [
+        {
+            "name": "Joy Kanana",
+            "email": "kananaaajoy@gmail.com",
+            "license": "ISC"
+        }
+    ]
+}
